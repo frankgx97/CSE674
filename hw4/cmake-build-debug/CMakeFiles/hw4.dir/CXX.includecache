@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/frank/git/cse674/hw4/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+string
+-
+cmath
+-
+stack
+-
+queue
+-
+
